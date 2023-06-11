@@ -39,7 +39,7 @@ function burn (address addrss, uint value) public {
         TotalTokens -= value;
         balances[addrss] -= value;
     }
-}
+ }
 } 
 
 * Step-by-step bullets
