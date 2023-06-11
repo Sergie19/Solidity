@@ -1,4 +1,4 @@
-# ETH PROOF: Beginner EVM Course
+# ETH PROOF: Beginner EVM Course (Create a Token)
 
 This code represents a simple Ethereum smart contract for a token called "MyToken" Here's a breakdown of its functionality
 
